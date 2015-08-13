@@ -1,4 +1,4 @@
-httpserver
+Light weighted httpserver written with Python.
 =======================================
 This httpserver is a enhanced version of SimpleHTTPServer. 
 It was write in python, I use some code from bottle[https://github.com/defnull/bottle] 
